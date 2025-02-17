@@ -35,7 +35,7 @@ class EstadoSerializer(ModelSerializer):
         model = Estado
         fields = '__all__'
 ```
-
+ 
 Este código cria um serializador para a classe `Estado`. O serializador é responsável por converter os objetos em JSON.
 
 ## Criando as views
